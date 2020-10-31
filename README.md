@@ -19,5 +19,3 @@ Hi, we are **Team Ecletic**. Our domain is Food Waste. Food waste occurs when po
 * Jiayu Li | 43974836
 
 ***
-
-
