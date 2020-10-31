@@ -3,7 +3,7 @@ Hi, we are **Team Ecletic**. Our domain is Food Waste. Food waste occurs when po
 
 
 
-**Documentation**: [Link](https://github.com/hunture/eclectic/wiki/Concept-Proposal)
+**Documentation**: [Link](https://github.com/hunture/eclectic/wiki)
 
 **Prototype**: [Link](https://xd.adobe.com/view/18542ebc-f4c1-431f-8645-8b1b69e35fa3-4d07/?fullscreen)
 
