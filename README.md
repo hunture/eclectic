@@ -8,6 +8,7 @@ Hi, we are **Team Ecletic**. Our domain is Food Waste. Food waste occurs when po
 **Prototype**: [Link](https://xd.adobe.com/view/18542ebc-f4c1-431f-8645-8b1b69e35fa3-4d07/?fullscreen)
 
 **Poster**: 
+
 <a href="https://ibb.co/KKNCmfc"><img src="https://i.ibb.co/phWCnM6/1341604112983-pic-hd.png" alt="1341604112983-pic-hd" border="0"></a>
 *** 
 
