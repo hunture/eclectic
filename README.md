@@ -21,8 +21,3 @@ Hi, we are **Team Ecletic**. Our domain is Food Waste. Food waste occurs when po
 ***
 
 
-All team/group member names, student numbers
-For teams, link to shared team code repository; additional link to documentation wiki/promotional material if using a separate platform for those elements
-For groups, a summary of how the group has shared and divided work. This may be in the form of a table with multiple links to different elements (e.g. shared process documentation link (for all group members), individual code repository links for each prototype, or single shared repository with different folders for different group member prototypes, etc.), or another format that clearly communicates individual responsibility for the elements submitted. 
-ENSURE that course staff are able to access and view your links. If we cannot open the links (e.g. we do not have a login or password required) we cannot mark your submission.
-
