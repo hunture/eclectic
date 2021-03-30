@@ -12,10 +12,4 @@ Hi, we are **Team Ecletic**. Our domain is Food Waste. Food waste occurs when po
 <a href="https://ibb.co/KKNCmfc"><img src="https://i.ibb.co/phWCnM6/1341604112983-pic-hd.png" alt="1341604112983-pic-hd" border="0"></a>
 *** 
 
-**Team**:
-* Samyamta Sen | 44999500
-* Yuqiao Yang | 44286778
-* Xiaoqi Wang | 45270671
-* Jiayu Li | 43974836
-
 ***
